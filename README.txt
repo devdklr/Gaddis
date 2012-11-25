@@ -1,0 +1,1 @@
+2012_11_24: This is a readme file to test Git out and verify functionality.
